@@ -37,7 +37,7 @@ h1, h2, h5, h6, .section-title {
 
 .hero {
   background: linear-gradient(rgba(75, 46, 25, 0.45), rgba(75, 46, 25, 0.45)),
-              url('../assest/img/faa99443-8b7c-4bcb-b81f-9f58c7a94e50.jpg') center/cover no-repeat;
+              url('assest/img/faa99443-8b7c-4bcb-b81f-9f58c7a94e50.jpg') center/cover no-repeat;
   height: 90vh;
   color: #fff;
 }
